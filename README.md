@@ -4,7 +4,7 @@
 
 
 ### Description
-A new iteration of the previous NBA Roster Builder. This version uses Spring Boot to host a server that the front end will consume.
+A new iteration of the previous NBA Roster Builder. This version uses Spring Boot to host a server that the frontend will consume.
 
 ### Motivation
 After learning more technologies, I wanted to build a more thourough application implementing the model-view-controller design pattern.
